@@ -1,6 +1,6 @@
 {
   "name" : "shoelace-ui-container",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Container styles and variables",
   "repository" : "https://github.com/shoelace-ui/container.git",
   "keywords" : ["shoelace", "container"],
@@ -9,7 +9,7 @@
     "stylus": "^0.44.0"
   },
   "dependencies": {
-    "shoelace-ui-clear": "git+https://github.com/shoelace-ui/clear.git"
+    "shoelace-ui-clear": "^0.1.0"
   },
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT"
